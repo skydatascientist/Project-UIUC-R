@@ -1,1 +1,1 @@
-# USC Master of Business Anaytics, Academic Projects
+#### USC Master of Business Anaytics, Academic Projects
